@@ -5,6 +5,7 @@ public class ShareClass {
 		System.out.println("Study Git ing...");
 		for (int i = 0; i <= 1000000; i++) {
 			System.out.println("day day up");
+			System.out.println("totay is 星期四");
 		}
 	}
 }
